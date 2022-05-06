@@ -3,8 +3,7 @@
 This tutorial will teach you how to create interactive applications using Excel and Python. Learn how to use Python scripts to execute tasks and combine the two in one seamless coding environment. In this video, we will build an application to download YouTube videos as mp3 files, convert the audio files to text using the AssemblyAI API and finally create a word cloud based on that text file.
 
 ## Video Tutorial
-...will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/xxx/0.jpg)](https://youtu.be/xxx)
+[![YouTube Video](https://img.youtube.com/vi/XU9SujqOXdE/0.jpg)](https://youtu.be/XU9SujqOXdE)
 
 
 ## Requirements
